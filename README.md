@@ -1,10 +1,3 @@
-<p align="center">
-    <a href="https://morvanzhou.github.io/" target="_blank">
-    <img width="40%" src="/scraping.jpg" style="max-width:100%;">
-    </a>
-</p>
-
-
 <br>
 
 # Web scraping tutorials (Python)
