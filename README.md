@@ -15,10 +15,8 @@ If you understand Chinese, you are lucky! I made Chinese video + text tutorials 
   * [CSS](/notebook/2-2-beautifulsoup-css.ipynb)
   * [RegEx](/notebook/2-3-beautifulsoup-regex.ipynb)
   * [Practice random scraping](/notebook/2-4-practice-baidu-baike.ipynb)
-* Requests and Download
-  * [Requests](/notebook/3-1-requests.ipynb)
-  * [Download](/notebook/3-2-download.ipynb)
-  * [Practice download image](/notebook/3-3-practice-download-images.ipynb)
+
+
 * Speed up scraping
   * [Distributed scraping (multiprocessing)](/notebook/4-1-distributed-scraping.ipynb)
   * [Asyncio](/notebook/4-2-asyncio.ipynb)
