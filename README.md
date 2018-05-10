@@ -14,7 +14,6 @@ If you understand Chinese, you are lucky! I made Chinese video + text tutorials 
   * [Basic](/notebook/2-1-beautifulsoup-basic.ipynb)
   * [CSS](/notebook/2-2-beautifulsoup-css.ipynb)
   * [RegEx](/notebook/2-3-beautifulsoup-regex.ipynb)
-  * [Practice random scraping](/notebook/2-4-practice-baidu-baike.ipynb)
 
 
 * Speed up scraping
